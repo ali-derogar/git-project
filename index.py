@@ -1,2 +1,3 @@
-print('hi world')
-print('what')
+def new(x):
+    return x * 2
+'''dfdsffs'''

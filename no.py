@@ -1,3 +1,4 @@
-x = input('enter : ')
-print(x* 12)
-'''dfhnqdj'''
+class po():
+    def f():
+        pass
+    '''fsdfsdf'''
